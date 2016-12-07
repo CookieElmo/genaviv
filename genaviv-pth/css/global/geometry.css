@@ -239,10 +239,10 @@ body#torrents table#torrent_table tr td:first-of-type{}
 ul.stats.nobullet li{display:block;}
 p{margin:0;}
 #forums h4.min_padding{font-size:inherit;font-weight:bold}
-.poll .graph .left_poll{width:9px;background:url(../../img/poll_left.png) top left no-repeat}
+.poll .graph .left_poll{width:9px;background:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/img/poll_left.png) top left no-repeat}
 .poll .graph span{display:block;height:19px;float:left}
-.poll .graph .center_poll{background:url(../../img/poll_middle.png) top left repeat-x}
-.poll .graph .right_poll{width:11px;background:url(../../img/poll_right.png) top left no-repeat}
+.poll .graph .center_poll{background:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/img/poll_middle.png) top left repeat-x}
+.poll .graph .right_poll{width:11px;background:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/img/poll_right.png) top left no-repeat}
 ul.poll.nobullet li{display:block;clear:both;}
 ul.poll.nobullet li:first-of-type,ul.poll.nobullet li:first-child{}
 div.pad#threadpoll{margin-bottom:5px}
