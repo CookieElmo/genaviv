@@ -79,8 +79,8 @@ div.noty_bar{border:1px solid #444}
 span.r99,.r09,.r10,.r20,.r30,.r40,.r50{color:#3c9454}
 table#torrent_table strong{color:#d2d2d2}
 .alertbar,.forum-post__avatar-and-body,.cover-movie-list__movie{background:#262626;}
-.hide_torrents{width:28px;height:28px;background:url(../../img/hide.png) no-repeat center center;-moz-opacity:.5;opacity:.5;filter:alpha(opacity=50);background-size:10px 10px}
-.show_torrents{width:28px;height:28px;background:url(../../img/show.png) no-repeat center center;-moz-opacity:.5;opacity:.5;filter:alpha(opacity=50);background-size:10px 10px}
+.hide_torrents{width:28px;height:28px;background:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth//img/hide.png) no-repeat center center;-moz-opacity:.5;opacity:.5;filter:alpha(opacity=50);background-size:10px 10px}
+.show_torrents{width:28px;height:28px;background:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth//img/show.png) no-repeat center center;-moz-opacity:.5;opacity:.5;filter:alpha(opacity=50);background-size:10px 10px}
 .colhead td,.forum-post__heading,.colhead_dark td,#inbox .box .head,.box.filter_torrents .head,#reply_box h3,tr .colhead_dark td,.sidebar .box .head,.main_column .box .head.colhead_dark,.box.news_post .head,tr.colhead,tr.colhead_dark,.head.colhead_dark,.main_column .box .head{}
 .toggleable-search-form__toggler-container,thead th,.forum-post__heading,.panel__heading,.box.filter_torrents .head,.colhead td,.colhead_dark td,tr.colhead,tr.colhead_dark,#inbox .box .head,#inbox .box .head,#reply_box h3,#inbox form .send_form #quickpost h3,.sidebar .box .head,.main_column .box .head.colhead_dark,.box.news_post .head,tr.colhead,tr.colhead_dark,.head.colhead_dark,.main_column .box .head{background:#373737;color:#9a9a9a;border-bottom:2px solid #1a1a1a;}
 .panel__body,.sidebar .box,.news_post .pad,.main_column .box,.main_column2 .box,#scontent .box,.sidebar .box,.news_post .pad,.main-column .box,.main-column2 .box,#scontent .box{background:#262626}
