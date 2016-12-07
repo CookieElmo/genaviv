@@ -2,5 +2,5 @@ div#logo{width:138px;height:70px;margin:0 auto;}
 div#logo a{display:block;width:138px;height:70px;margin:0 auto}
 #header #logo{margin-top:10px;margin-bottom:10px}
 .autocomplete-suggestion{padding:5px}
-#header{background-image:url(../../img/top/wcd.jpg);}
+#header{background-image:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/img/top/wcd.jpg);}
 div#footer>p:first-child:after{content:" | Genaviv theme by geekmaster1"}
