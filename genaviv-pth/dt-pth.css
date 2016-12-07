@@ -2,11 +2,6 @@
 @import 'https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i';
 @charset "UTF-8";
 @import 'https://fonts.googleapis.com/css?family=Inconsolata';
-@import 'https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/css/color/dt.css';
-@import 'https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/css/color-site/dt-wcd.css';
-@import 'https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/css/global/geometry.css';
-@import 'https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/css/shade/dark.css';
-@import 'https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/css/site/wcd.css';
 
 #logo{background-image:url(https://raw.githubusercontent.com/CookieElmo/genaviv/master/genaviv-pth/img/logo/pth/pth1.png);}
 
